@@ -8,7 +8,66 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
     <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
-    <link rel="stylesheet" href="https://sites.google.com/site/viniciushkd/arquivo/estilos.css">
+    <style>
+        .margin-sup{
+            margin-top: 60px;
+        }
+        .fonte{
+            font-family: 'Rubik', sans-serif;
+        }
+        .card-estilo{
+            height: 275px;
+        }
+        .card-fonte{
+            font-size: 13.5px;
+        }
+        .topo{
+            height:120px;
+            margin-top:30px;
+        }
+        .sombra{
+            -webkit-box-shadow: -4px 4px 1px 0px rgba(50, 50, 50, 0.75);
+            -moz-box-shadow:    -4px 4px 1px 0px rgba(50, 50, 50, 0.75);
+            box-shadow:         -4px 4px 1px 0px rgba(50, 50, 50, 0.75);
+            border: 1px solid #e1e1e1; 
+        }
+
+        .footer{
+            bottom: 0;
+            width: 100%;
+            text-align:center;
+            padding:20px;
+            background-color:#7F7F7F;
+            color: white;
+        }
+        .link-nav{
+            color:#ffffff;
+        }
+
+        @media screen and (max-width: 800px) {
+            .topo{
+                height: 170px;
+            }
+        }
+
+        @media screen and (max-width: 1200px) {
+            .topo{
+                height: 170px;
+                margin-left: 50px;
+            }
+        }
+
+        @media screen and (max-width: 766px) {
+            .card-estilo{
+                height: 274;
+            }
+        }
+        @media screen and (max-width: 991px) {
+            .card-estilo{
+                height: 400px;
+            }
+        }
+    </style>
 </head>
 
 <body class="fonte">
