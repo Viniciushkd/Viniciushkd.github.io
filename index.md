@@ -20,7 +20,6 @@
                     <i class="fab fa-github fa-2x"></i>
                 </a>
             </div>
-        </div>
     </nav>
 
     <div class="container body-content fonte margin-sup">
