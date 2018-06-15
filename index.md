@@ -28,7 +28,7 @@
                 <div class="card-body">
                     <div class="row">
                         <div class="col-md-3 offset-md-1">
-                            <img src="img/mvinicius.jpg" width="200px" class="rounded mx-auto d-block sombra" />
+                            <img src=""https://2.bp.blogspot.com/-kNusO4bilTY/WyQT1-CqLuI/AAAAAAAAbxA/jyhrY1_kInkpQ0OeiumBuS9_xr2GYljgQCLcBGAs/s1600/mvinicius.jpg" width="200px" class="rounded mx-auto d-block sombra" />
                         </div>
                         <div class="col-md-7 topo">
                             <h2>Marcos Vinicius V. N. Santos</h2>
