@@ -14,7 +14,7 @@
 
 <body class="fonte">
     <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="#">RM330870</a>
+        <a class="navbar-brand" href="#">MVVNS</a>
             <div class="offset-md-10 text-right">
                 <a href="https://github.com/Viniciushkd" target="_blank" class="link-nav">
                     <i class="fab fa-github fa-2x"></i>
@@ -233,7 +233,6 @@
     </div>
     <br/>
     <footer class="footer">
-        <p>Desenvolvido para o trabalho do curso Web Moderna</p>
         <p>Copyright 2018 - Todos os direitos reservados</p>
     </footer>
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
