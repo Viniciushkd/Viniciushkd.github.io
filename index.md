@@ -52,7 +52,7 @@
 
         @media screen and (max-width: 1200px) {
             .topo{
-                height: 170px;
+                height: 240px;
                 margin-left: 50px;
             }
         }
